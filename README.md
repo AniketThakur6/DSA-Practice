@@ -10,6 +10,7 @@
 | [0912-sort-an-array](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0912-sort-an-array) |
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
 | [0046-permutations](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0047-permutations-ii) |
 
 ## Hash Table
 |  |
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0912-sort-an-array) |
+| [0047-permutations-ii](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0047-permutations-ii) |
 
 ## Heap (Priority Queue)
 |  |
@@ -81,6 +83,7 @@
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
 | [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0046-permutations) |
+| [0047-permutations-ii](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0047-permutations-ii) |
 
 ## Bit Manipulation
 |  |
