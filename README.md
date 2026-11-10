@@ -26,6 +26,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0070-climbing-stairs) |
+| [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
 
 ## Recursion
 |  |
@@ -77,9 +78,20 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
+| [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
 
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
+
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
+
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
