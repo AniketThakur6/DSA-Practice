@@ -9,6 +9,7 @@
 | [0001-two-sum](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0001-two-sum) |
 | [0912-sort-an-array](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0912-sort-an-array) |
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
+| [0046-permutations](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0046-permutations) |
 
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
 | [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0046-permutations) |
 
 ## Bit Manipulation
 |  |
