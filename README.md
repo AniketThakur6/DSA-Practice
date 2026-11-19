@@ -11,6 +11,7 @@
 | [0078-subsets](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0078-subsets) |
 | [0046-permutations](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0047-permutations-ii) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
 
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0509-fibonacci-number) |
 | [0070-climbing-stairs](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0070-climbing-stairs) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
 
 ## Dynamic Programming
 |  |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0509-fibonacci-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
 
 ## Memoization
 |  |
@@ -99,4 +102,14 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0022-generate-parentheses) |
+
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
+
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
