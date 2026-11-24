@@ -37,6 +37,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
+| [0206-reverse-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0206-reverse-linked-list) |
 
 ## Memoization
 |  |
@@ -112,4 +113,9 @@
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/1823-find-the-winner-of-the-circular-game) |
+
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
