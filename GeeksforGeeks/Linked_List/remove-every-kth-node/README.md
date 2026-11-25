@@ -1,0 +1,17 @@
+## [Remove Every k'th in Linked List](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab)
+
+**Difficulty:** Easy  
+**Topics:** Linked List  
+
+**Problem Description:**
+
+<p><span style="font-size: 14pt;">Given a singly linked list <strong>head </strong>,&nbsp; your task is to remove every <strong>k<sup>th</sup></strong> node from the linked list.</span></p>
+<p><span style="font-size: 14pt;"><strong>Note: </strong>If&nbsp;head is equal to null the driver code will print -1.</span></p>
+<p><span style="font-size: 12pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 12pt;"><strong>Input: </strong>k = 2<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/932938/Web/Other/blobid2_1786449412.png" height="100"><br><strong>Output:</strong> <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/932938/Web/Other/blobid3_1786449428.png" height="100"><br><strong>Explanation:</strong> After removing every 2nd node of the linked list, the resultant linked list will be: 1 -&gt; 3 -&gt; 5.</span></pre>
+<pre><span style="font-size: 12pt;"><strong>Input: </strong>k = 3<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/932938/Web/Other/blobid0_1786449375.png" height="100"><br><strong>Output: <br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/932938/Web/Other/blobid1_1786449385.png" height="100"></strong><br><strong>Explanation:</strong> After removing every 3rd node of the linked list, the resultant linked list will be: 1 -&gt; 2 -&gt; 4 -&gt; 5 -&gt; 7 -&gt; 8 -&gt; 10.</span></pre>
+
+**Expected Complexities:**
+
+Time Complexity: O(n)  
+Auxiliary Space: O(1)
