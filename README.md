@@ -120,10 +120,12 @@
 | [0206-reverse-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0061-rotate-list) |
 
 ## Two Pointers
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0876-middle-of-the-linked-list) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0019-remove-nth-node-from-end-of-list) |
+| [0061-rotate-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0061-rotate-list) |
 <!---LeetCode Topics End-->
