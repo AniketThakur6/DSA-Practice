@@ -118,4 +118,10 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0876-middle-of-the-linked-list) |
+
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/AniketThakur6/DSA-Practice/tree/main/LeetCode/Solutions/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
